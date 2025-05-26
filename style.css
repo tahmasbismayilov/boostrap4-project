@@ -1,0 +1,11 @@
+body {
+    padding-top: 56px; /* Adjust for fixed navbar */
+}
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem 1rem;
+    margin-bottom: 0;
+}
+.about-section {
+    padding: 60px 0;
+}
